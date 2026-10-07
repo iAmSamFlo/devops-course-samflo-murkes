@@ -26,3 +26,6 @@ The project will be set up as a GitHub repository, and we will use GitHub Action
 **Relevance:**
 This is relevant to DevOps as we are utilizing main practices of CI, CD and IaC.
 We are testing the code, automating deployments and setting up relevant infrastructure, which is central to DevOps.
+
+**Link to Project**
+[Link](https://github.com/williamnordwall/devops-project)
